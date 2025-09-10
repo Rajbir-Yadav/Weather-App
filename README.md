@@ -10,6 +10,14 @@ A simple Android app built with Kotlin in Android Studio that shows real-time we
 - 🎨 Clean and responsive UI design  
 - 🔄 Real-time data using OpenWeather API  
 - 📱 Built with modern Android development practices  
+📱 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f26137ee-b60c-4db9-830d-c1c5db82e06e" alt="Screenshot_20250910_170507" width="250"/>
+  <img src="https://github.com/user-attachments/assets/fdecaa64-ff95-4db3-bbf2-888905c7d836" alt="Screenshot_20250910_170318" width="250"/>
+</p>
+
+
 
 ---
 
